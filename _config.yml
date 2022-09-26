@@ -128,6 +128,7 @@ navbar-var-length: false
 navbar-col: "#A47D1B"
 navbar-text-col: "#3B2B02"
 navbar-hover-col: "#A47D1B"
+navbar-border-col: "#DDDDDD"
 
 #fondo
 page-col: "#DEBE6B"
@@ -144,7 +145,7 @@ footer-link-col: "#A47D1B"
 footer-col: "#A47D1B"
 footer-text-col: "#3B2B02"
 footer-hover-col: "#3B2B02"
-
+footer-border-col: "#DDDDDD"
 
 
 
