@@ -11,4 +11,4 @@ Estudio DAW y mediante esta página que hemos preparado con SiteGenerators (http
 
 Gracias a esto pude preparar la página para presentarte a mi personaje:
 
-![Mi personaje del wow](.\assets\img)
+![Mi personaje del wow](/assets/img/AboutMe.PNG)
