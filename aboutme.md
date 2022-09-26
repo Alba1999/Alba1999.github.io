@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: ¿Como lo hice?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+##Me llamo Alba Núñez 
+---
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Estudio DAW y mediante esta página que hemos preparado con SiteGenerators (https://jamstack.org/generators/) y en ella eligiendo la opción "beatifull-jekyll" vinculando nuestro GitHub con un repositorio ya creado previamente lo forkeamos para tenerlo y poder hacer todos los cambios que creamos oportunos trabajando principalmente en "_config.yaml"
 
-What else do you need?
+Gracias a esto pude preparar la página para presentarte a mi personaje:
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![Mi personaje del wow](\assets\img)
