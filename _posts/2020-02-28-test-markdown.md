@@ -1,78 +1,16 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: El bosque de Jade
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+share-img: /assets/img/Jade.webp
+tags: [videogames, WoW]
 comments: true
 ---
+![](/assets/img/Jade2.webp)
+El Bosque de Jade es una zona situada al este de Pandaria, bordeando el Valle de los Cuatro Vientos al suroeste y Cima Kun-Lai al noroeste. Es una frondosa selva con monolitos de piedra y lugares con la característica arquitectura pandaren.
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Al este del lugar se localiza el Templo del Dragón de Jade, la primera mazmorra que los jugadores encontrarán tras su desembarco en Pandaria.
 
-**Here is some bold text**
+Al contrario que sucedió en las dos expansiones previas, donde los jugadores decidían a qué parte de las nuevas zonas querían ir, el Bosque de Jade es la única localización a la que los nuevos jugadores acceden a Pandaria tras una batalla naval entre la Horda y la Alianza que dejará a los jugadores en la costa oriental de la zona.
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+Los equipos de rescate de los soldados de élite de ambas facciones comenzaron a explorar la misteriosa isla rodeada por la niebla. Tras empezar la exploración en mitad del bambú esmeralda y de la marisma costera de El Bosque de Jade, se encontrarán con el hogar dos de las razas más destacadas de Pandaria. Los hozen, de aspecto monesco, y el pueblo-pez de los jinyu viven junto a los ríos de El Bosque de Jade. Al principio serán hostiles y habrá que trabar amistad con los nativos. Cuando la facción rival construya su base de avanzada, reúna a sus propios aliados y empiece a conocer (y reclamar) lo que pueda de Pandaria, El Bosque de Jade se convertirá en un campo de batalla donde los hozen y los jinyu, que tienen una antigua enemistad similar a la de la Horda y la Alianza marcarán el curso de la batalla a favor de aquel que pueda armarlos, entrenarlos y adiestrarlos en las artes de guerra. Lo que comenzó como una simple misión de rescate hará sonar de nuevo los tambores de guerra.
