@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Como se hizo?
-thumbnail-img: /assets/img/codigo.jifi
+thumbnail-img: /assets/img/cod.jpg
 tags: [despliegue, md]
 ---
 
