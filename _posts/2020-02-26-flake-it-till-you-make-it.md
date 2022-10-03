@@ -13,4 +13,4 @@ En la época en la que los titanes se encontraban en Azeroth, el Valle de la Flo
 
 Cuando los mogu fueron sobrepasados por los pandaren, la capital fue trasladada al este, hacia el Bosque de Jade, quedando el valle cerrado y aislado del mundo exterior. En su interior, un pequeño grupo de elegidos comocido como el Loto Dorado, con la ayuda puntual del Shadopan, vigila y guarda el valle manteniendo su seguridad y salvaguardándolo de la corrupción.
 
-!(/assets/img/Valle2.jpg)
+![Valle de lka Flor Eterna](/assets/img/Valle2.jpg)
