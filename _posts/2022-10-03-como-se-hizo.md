@@ -1,9 +1,9 @@
 ---
 layout: post
 title: ¿Como se hizo?
-thumbnail-img: /assets/img/cod.jpg
-cover-img: /assets/img/cod.jpg
-share-img: /assets/img/cod.jpg
+thumbnail-img: /assets/img/Cod.jpg
+cover-img: /assets/img/Cod.jpg
+share-img: /assets/img/Cod.jpg
 tags: [despliegue, md]
 ---
 
