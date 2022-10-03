@@ -2,6 +2,8 @@
 layout: post
 title: ¿Como se hizo?
 thumbnail-img: /assets/img/cod.jpg
+cover-img: /assets/img/cod.jpg
+share-img: /assets/img/cod.jpg
 tags: [despliegue, md]
 ---
 
